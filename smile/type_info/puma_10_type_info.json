@@ -1,0 +1,13 @@
+{
+    "0": ["background", [0, 0, 0]], 
+    "1": ["nuclei_tumor", [200, 0, 0]], 
+    "2": ["nuclei_lymphocyte", [255, 0, 255]], 
+    "3": ["nuclei_plasma_cell", [3, 193, 98]], 
+    "4": ["nuclei_histiocyte", [52, 4, 179]], 
+    "5": ["nuclei_melanophage", [89, 165, 113]], 
+    "6": ["nuclei_neutrophil", [51, 51, 51]], 
+    "7": ["nuclei_stroma", [150, 200, 150]], 
+    "8": ["nuclei_endothelium", [0, 255, 0]], 
+    "9": ["nuclei_epithelium", [99, 145, 164]], 
+    "10": ["nuclei_apoptosis", [255, 255, 255]]
+}

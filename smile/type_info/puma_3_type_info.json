@@ -1,0 +1,6 @@
+{
+    "0": ["background", [0, 0, 0]], 
+    "1": ["nuclei_tumor", [200, 0, 0]], 
+    "2": ["nuclei_tils", [255, 0, 255]], 
+    "3": ["nuclei_others", [3, 193, 98]]
+}
